@@ -51,5 +51,3 @@ while chance > 0:
                 print("Account Blocked! All attempts exhausted.")
                 
     # Agar user number ki jagah alphabet/text daal de toh error handle kiya
-    except ValueError:
-        print("Invalid Input! Please enter numbers only.")
